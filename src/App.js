@@ -1,5 +1,6 @@
 import { Component } from 'react';
-import logo from './logo.svg';
+import CardList from './components/CardList';
+import SearchBox from './components/SearchBox';
 import './App.css';
 
 const database = "https://my-json-server.typicode.com/jburto94/superhero-rolodex/superheroes";
@@ -33,15 +34,9 @@ class App extends Component {
 
     return (
       <div className="App">
-        <input 
-          className='search-box'
-          type='search'
-          placeholder='search superheroes'
-          onChange={onSearchChange}
-        />
-        {filteredHeroes
-          .map(hero => <h1 key={hero.id}>{hero.name}</h1>)
-        }
+        <h1>Superhero Rolodex</h1>
+        <SearchBox handleChange={onSearchChange} />
+        <CardList superheroes={filteredHeroes} />
       </div>
     );
   }
