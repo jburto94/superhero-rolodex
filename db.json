@@ -1,0 +1,52 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Superman",
+      "alternateIdentity": "Clark Kent",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11138/111381541/8340431-actioncomics.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Spider-Man",
+      "alternateIdentity": "Peter Parker",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8126579-amazing_spider-man_vol_5_54_stormbreakers_variant_textless.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hulk",
+      "alternateIdentity": "Bruce Banner",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/7892286-immortal_hulk_vol_1_38_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Iron Man",
+      "alternateIdentity": "Tony Stark",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11138/111389575/7768211-4293283244-2Pac8Gpu6dUAUMI0UpVJeqk9rayKSiaTjreIK0H-ChAWsoNV-RxTnTEt4a7tCNryrbLjFPndaoNki-tJJI1Q-_mi8fue_juP4cBRHx0Er1w5EfjNoWwadqewG3JSwaliSSsHnNEN%3Ds1600.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shazam",
+      "alternateIdentity": "Billy Batson",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11141/111417740/8255094-shazam%2521_vol_3_1_textless_variant.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ghost Rider",
+      "alternateIdentity": "Johnny Blaze",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8320481-fhqah2nvcaqfa9y.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Manhattan",
+      "alternateIdentity": "Jon Osterman",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/10/100647/3248935-before_watchmen_dr._mahattan_1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Kick-Ass",
+      "alternateIdentity": "Dave Lizewski",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/10/100647/2642357-2642356-550w_comics_kick_ass_2_3_1.jpg"
+    }
+  ]
+}
